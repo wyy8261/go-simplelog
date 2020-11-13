@@ -1,5 +1,5 @@
 ### 安装
-go get
+go get -u github.com/wyy8261/go-simplelog
 ### 使用
 ```
 func init() {
