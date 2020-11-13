@@ -8,6 +8,9 @@ func init() {
 
 func main() {
 	logger.LOGD("11")
+	logger.LOGI("22")
+	logger.LOGW("33")
+	logger.LOGE("44")
 	logger.SyncToFile()
 }
 ```
